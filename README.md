@@ -25,7 +25,7 @@ Early versions of the quiet movement analysis cited the wrong TinyAGI repository
 
 `TinyAGI/fractals` (637 stars, port 1618, explicit fractal framing) is distinct from `TinyAGI/tinyagi` (multi-channel assistant, no fractal framing).
 
-The error was caught, corrected, and permanently logged. That is not a failure. That is **epistemic compound interest**.
+The error was caught, corrected, and permanently logged. That is **epistemic compound interest**.
 
 **The quiet movement is real — and it checks its sources.**
 
@@ -42,15 +42,59 @@ The error was caught, corrected, and permanently logged. That is not a failure. 
 
 **Base myPKA agents:** Larry, Penn, Pax, Nolan, Mack, Silas, Charta, Pixel, Iris
 
-**Sovereign agents (this pack):** Nova (nuclear), Lex (legal), Atlas (economics), Orion (UAP), Cipher (classification), Monet (monetization), Chain (blockchain), Un-Oracle (verification), Fractal (governance), Long Now (curation), Tokenization (TCI)
+**Sovereign agents (this pack):** Nova, Lex, Atlas, Orion, Cipher, Monet, Chain, Un-Oracle, Fractal, Long Now, Tokenization
 
-**Language agents (in development):** Spanish, Portuguese, Quechua, Aymara, Maya, Nahuatl, Mapudungun, Guaraní, Tupi, Wayuu, Miskito, Embera, Pemon, Rapa Nui, Garifuna, Haitian Creole, French Caribbean, Dutch Caribbean, English Caribbean, Mandarin, Cantonese
-
-*Language agents will be released when validated against real LATAM workflows.*
+**Language agents (in development):** 20 languages including Spanish, Portuguese, Quechua, Aymara, Maya, Nahuatl, Mapudungun, Guaraní, Tupi, Wayuu, Miskito, Embera, Pemon, Rapa Nui, Garifuna, Haitian Creole, French Caribbean, Dutch Caribbean, English Caribbean, Mandarin, Cantonese
 
 ---
 
-## All Agents Are Fractal-Seeded
+## The Sovereign Stack
 
-Every `AGENTS.md` includes:
+| Layer | Technology |
+|-------|------------|
+| **AI Model** | DeepSeek-V4 (agent-optimized preview) |
+| **Knowledge Graph** | Obsidian (822+ queryable files) |
+| **Methodology** | myPKA / Paperless Movement |
 
+**Why DeepSeek?** 5% the cost of Claude MCP. Native agent capabilities. No vendor lock. Sovereign by design.
+
+---
+
+## Quick Start
+
+1. **Download** `agent-expansion-pack.zip`
+2. **Extract** into your myPKA folder's `Team/` directory
+3. **Verify** all agents have fractal frontmatter:
+   ```bash
+   grep -l "fractal_seed" Team/*/AGENTS.md | wc -l
+   # Expected output: 20
+
+    Read Team/Larry - Orchestrator/AGENTS.md for orchestration protocol
+
+Repository Structure
+text
+
+agent-expansion-pack/
+├── agent-expansion-pack.zip    # 20 fractal-seeded agents (9 base + 11 sovereign)
+├── LICENSE                     # CC BY-NC-SA 4.0
+└── README.md                   # This file
+
+Acknowledgments
+
+    DeepSeek — github.com/deepseek-ai
+
+    myICOR / myPKA — github.com/myICOR/myPKA
+
+    Obsidian — github.com/obsidianmd
+
+Two Labs, One Mission
+
+    Fractal Sovereign Labs — core agent research
+
+    Pachamama Lab — applied sovereignty in LATAM
+
+La misma pauta, cada escala, para siempre.
+
+The quiet movement is real. Now sourced. Now open.
+
+Built with DeepSeek. Built for sovereignty.
