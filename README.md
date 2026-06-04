@@ -8,24 +8,24 @@
 
 ## The Quiet Movement
 
-This agent pack is part of a quiet movement — convergent emergence across independent projects discovering that **recursive self-similarity** produces intelligence more efficiently than centralized processing.
+This agent pack is part of a quiet movement — convergent emergence across independent projects discovering that recursive self-similarity produces intelligence more efficiently than centralized processing.
 
-| Project | Domain | Scale | Key Feature |
-|---------|--------|-------|-------------|
-| **Fractal Engine** | Agent orchestration | 1-8 layers × 1-8 agents | 3D fractal visualization |
-| **TinyAGI/fractals** | Task decomposition | Recursive tree → isolated execution | Port 1618 (golden ratio) |
-| **FractiAI** | Universal intelligence | Unipixels across dimensions | Named digital executives |
-| **Your System** | Sovereign PKM | 40 agents (20 released) | **Epistemic integrity** |
+| Project | Domain | Key Feature |
+|---------|--------|-------------|
+| TinyAGI/fractals | Task decomposition | Port 1618 (golden ratio), 637 stars |
+| FractiAI | Universal intelligence | Named digital executives, Unipixels |
+| Fractal Engine | Agent orchestration | 3D fractal visualization |
+| **Your System** | Sovereign PKM | Epistemic integrity + linguistic sovereignty |
 
 ---
 
 ## The Correction That Proves the Method
 
-Early versions of the quiet movement analysis cited the wrong TinyAGI repository. The protocol required **primary-source confirmation before High confidence** — and when the real README arrived, the error was revealed.
+Early versions of the quiet movement analysis cited the wrong TinyAGI repository. The protocol required primary-source confirmation — and when the real README arrived, the error was revealed.
 
-`TinyAGI/fractals` (637 stars, port 1618, explicit fractal framing) is distinct from `TinyAGI/tinyagi` (multi-channel assistant, no fractal framing).
+`TinyAGI/fractals` (637 stars, port 1618) is distinct from `TinyAGI/tinyagi` (no fractal framing).
 
-The error was caught, corrected, and permanently logged. That is **epistemic compound interest**.
+The error was caught, corrected, and permanently logged. That is epistemic compound interest.
 
 **The quiet movement is real — and it checks its sources.**
 
@@ -35,10 +35,10 @@ The error was caught, corrected, and permanently logged. That is **epistemic com
 
 | Agent Type | Count | Status |
 |------------|-------|--------|
-| **Base myPKA** | 9 | ✅ Stable, tested |
-| **Sovereign** | 11 | ✅ Stable, tested |
+| Base myPKA | 9 | ✅ Stable, tested |
+| Sovereign | 11 | ✅ Stable, tested |
 | **Total Released** | **20** | ✅ Ready for use |
-| **Language** | 20 | 🔜 In development |
+| Language | 20 | 🔜 In development |
 
 **Base myPKA agents:** Larry, Penn, Pax, Nolan, Mack, Silas, Charta, Pixel, Iris
 
@@ -52,49 +52,55 @@ The error was caught, corrected, and permanently logged. That is **epistemic com
 
 | Layer | Technology |
 |-------|------------|
-| **AI Model** | DeepSeek-V4 (agent-optimized preview) |
-| **Knowledge Graph** | Obsidian (822+ queryable files) |
-| **Methodology** | myPKA / Paperless Movement |
+| AI Model | DeepSeek-V4 (agent-optimized preview) |
+| Knowledge Graph | Obsidian (822+ queryable files) |
+| Methodology | myPKA / Paperless Movement |
 
-**Why DeepSeek?** 5% the cost of Claude MCP. Native agent capabilities. No vendor lock. Sovereign by design.
+Why DeepSeek? 5% the cost of Claude MCP. Native agent capabilities. No vendor lock.
 
 ---
 
 ## Quick Start
 
-1. **Download** `agent-expansion-pack.zip`
-2. **Extract** into your myPKA folder's `Team/` directory
-3. **Verify** all agents have fractal frontmatter:
+1. Download `agent-expansion-pack.zip`
+2. Extract into your myPKA folder's `Team/` directory
+3. Verify:
    ```bash
    grep -l "fractal_seed" Team/*/AGENTS.md | wc -l
-   # Expected output: 20
+   # Expected: 20
+   ```
+4. Read `Team/Larry - Orchestrator/AGENTS.md`
 
-    Read Team/Larry - Orchestrator/AGENTS.md for orchestration protocol
+---
 
-Repository Structure
-text
+## Repository Structure
 
+```
 agent-expansion-pack/
-├── agent-expansion-pack.zip    # 20 fractal-seeded agents (9 base + 11 sovereign)
-├── LICENSE                     # CC BY-NC-SA 4.0
-└── README.md                   # This file
+├── agent-expansion-pack.zip
+├── LICENSE
+└── README.md
+```
 
-Acknowledgments
+---
 
-    DeepSeek — github.com/deepseek-ai
+## Acknowledgments
 
-    myICOR / myPKA — github.com/myICOR/myPKA
+- DeepSeek — [github.com/deepseek-ai](https://github.com/deepseek-ai)
+- myICOR / myPKA — [github.com/myICOR/myPKA](https://github.com/myICOR/myPKA)
+- Obsidian — [github.com/obsidianmd](https://github.com/obsidianmd)
 
-    Obsidian — github.com/obsidianmd
+---
 
-Two Labs, One Mission
+## Two Labs, One Mission
 
-    Fractal Sovereign Labs — core agent research
+- **Fractal Sovereign Labs** — core agent research
+- **Pachamama Lab** — applied sovereignty in LATAM
 
-    Pachamama Lab — applied sovereignty in LATAM
+*La misma pauta, cada escala, para siempre.*
 
-La misma pauta, cada escala, para siempre.
+---
 
-The quiet movement is real. Now sourced. Now open.
+**The quiet movement is real. Now sourced. Now open.**
 
-Built with DeepSeek. Built for sovereignty.
+*Built with DeepSeek. Built for sovereignty.*
