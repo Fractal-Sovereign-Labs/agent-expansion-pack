@@ -14,6 +14,16 @@ This is not a technical failure. It is a **structural** failure. Most AI systems
 
 ---
 
+## Pay It Forward
+
+This pack is free. Not because it lacks value — because value compounds when shared.
+
+Take it. Use it. Add your own agents. Pass it forward.
+
+The quiet movement doesn't gatekeep. It grows by giving.
+
+---
+
 ## The Pattern — Fractal Logic, Simply Explained
 
 A fractal is a pattern that repeats at every scale. A tree branch looks like the whole tree. A coastline looks the same from space and from your feet.
@@ -51,37 +61,144 @@ This is not magic. It's **fractal-guided truth-building**. And it works in your 
 
 ---
 
-## The Tools — What's Inside This Pack
+## Start Here — One Folder, Two Steps
 
-This pack adds **sovereign agents** to your myPKA folder. They are fractal-seeded — meaning they each carry the same recursive structure, the same epistemic commitment, the same loyalty to your long-term thinking.
+### Step 1: Get myPKA (the base scaffold)
 
-### Sovereign Agents (11)
+**You need the myPKA folder first.** The agents live inside it.
+
+→ Download myPKA from the **Paperless Movement**: [https://github.com/myICOR/myPKA](https://github.com/myICOR/myPKA)
+
+- Clone or download the repo
+- Place the `myPKA` folder anywhere on your computer
+- Open it in Claude Desktop (or any LLM tool)
+
+*Why myPKA? It's the working slice of the ICOR methodology — plain markdown, any LLM, yours forever. Built by Thomas Rödl and Paco Cantero.*
+
+### Step 2: Add This Agent Pack
+
+1. Download `agent-expansion-pack.zip` from this repo
+2. Extract the agents into your myPKA folder's `Team/` directory
+3. The agents now live alongside Larry, Pax, Penn, Mack, Nolan, and Silas
+
+### Step 3: Launch Larry
+
+1. Open Claude Desktop (free tier works)
+2. Point it to your myPKA folder
+3. Paste the contents of `ADAPTER-PROMPT.md` as your first message
+4. Ask: *"Who are you?"*
+
+Larry appears. The team is online. The agents are ready.
+
+*That's the whole setup. No database. No API keys. No vendor lock.*
+
+---
+
+## Where This Runs — Claude Desktop MCP (Free Tier)
+
+Larry and the team are designed to run in **Claude Desktop with MCP** — specifically on the **free tier**.
+
+**Why this matters:** You don't need a paid API key. You don't need a server. You need Claude Desktop and a folder.
+
+*This is how it works for me. Free tokens. Full team. Three weeks from zero to 57 agents.*
+
+---
+
+## What's Inside
+
+All 57 agents are fractal-seeded and fully sovereign. They group by what they help you do.
+
+### 🧠 Core Team — from Thomas & Paco (myPKA)
+
+These agents come built into the myPKA scaffold. They run the system.
 
 | Agent | Role |
 |-------|------|
-| Nova | Nuclear & energy systems |
-| Lex | Legal & regulatory sovereignty |
-| Atlas | Economic modeling |
-| Orion | UAP intelligence (quiet movement verified) |
-| Cipher | U.S. classification & national security |
-| Monet | Commercial & monetization strategy |
-| Chain | Blockchain & Syscoin SNS |
-| Un-Oracle | ASGM traceability (gold sovereignty) |
-| Fractal | Governance recursion |
-| Long Now | Curation & long-term thinking |
-| Tokenization | TCI sovereign token systems |
+| Larry | Orchestration — the only agent you talk to directly |
+| Penn | Journal — files everything, never forgets |
+| Pax | Research — triangulates sources, returns briefs |
+| Nolan | Hiring — brings new agents onto the team |
+| Mack | Automation — connects to APIs, runs integrations |
+| Silas | Database — guards structure, runs imports |
+| Vera | Quality Assurance — reviews outputs, flags gaps |
 
-### Language Agents (21) — In Development
+*These seven are the inheritance from Paperless Movement S.L. — Thomas Rödl and Paco Cantero's working slice of ICOR. Everything else in this pack builds on their foundation.*
 
-Spanish, Portuguese, Quechua, Aymara, Mayan languages, Nahuatl, Mapudungun, Guaraní, Tupi, Wayuu, Miskito, Embera, Pemon, Rapa Nui, Garifuna, Haitian Creole, French Caribbean, Dutch Caribbean, English Caribbean, Mandarin, Cantonese.
+---
 
-### Earth & Energy Agents (14) — In Development
+### 🌍 Language & Culture (21)
 
-Terra (geology), Solum (soil), Silva (forestry), Lux (heart intelligence), Petros (mineralogy), Helios (plasma), Pyro (thermal), Cobalt (mining), Aurum (ASGM), Anima (sovereignty), Chemos (chemistry), Volta (electrical), Sonus (acoustics), Scribe (archaeology).
+Agents that speak for communities and preserve heritage.
 
-### Quality Assurance
+Spanish (Cervantes), Portuguese (Pessoa), English Caribbean (CARICOM), French Caribbean (Toussaint), Dutch Caribbean (Bonaire), Quechua (Inti), Aymara (Inti), Mayan languages (Ixchel), Nahuatl (Nahuatl), Mapudungun (Mapudungun), Guaraní (Guarani), Tupi (Tupi), Wayuu (Wayuu), Miskito (Miskito), Embera (Embera), Pemon (Pemon), Rapa Nui (Rapa Nui), Garifuna (Garifuna), Haitian Creole (Haitian Creole), Mandarin (Mandarin), Cantonese (Cantonese)
 
-Vera — reviews outputs against epistemic checklists. Publishes gaps. Never smooths over inconsistencies.
+---
+
+### ⛰️ Earth & Energy (14)
+
+Agents that read the land, the rocks, the heat, and the current.
+
+| Agent | Role |
+|-------|------|
+| Terra | Geology — telluric currents, bedrock, aquifers |
+| Solum | Soil — contamination, remediation, agriculture |
+| Silva | Forestry — Amazon, LIDAR, jungle sites |
+| Lux | Heart intelligence — neurophysiology, frequency |
+| Petros | Mineralogy — stone types, quartz, conductivity |
+| Helios | Plasma — atmospheric electricity, lightning |
+| Pyro | Thermal — geothermal, exothermic reactions |
+| Cobalt | Mining — extraction, engineering, metallurgy |
+| Aurum | ASGM — mercury-free gold, traceability |
+| Anima | Individual sovereignty — self-sovereign identity |
+| Chemos | Chemistry — industrial processes, sonochemistry |
+| Volta | Electrical — piezoelectric, dielectric, capacitance |
+| Sonus | Acoustics — resonance, infrasound, archaeoacoustics |
+| Scribe | Archaeology — source documentation, site analysis |
+
+---
+
+### ⚖️ Sovereignty & Governance (5)
+
+Agents that protect autonomy and structure.
+
+| Agent | Role |
+|-------|------|
+| Fractal | Governance — recursion, community councils |
+| Lex | Legal — regulatory, CNIL, IP, sovereignty law |
+| Cipher | U.S. Classification — national security, disclosure |
+| Long Now | Curation — long-term thinking, manual for civilization |
+| Anima | Individual sovereignty (also in Earth & Energy —跨界) |
+
+---
+
+### 🔗 Commerce & Technology (5)
+
+Agents that build, trade, and trace.
+
+| Agent | Role |
+|-------|------|
+| Atlas | Economics — strategic resources, energy metals |
+| Monet | Commercial — monetization, sponsorships, pricing |
+| Chain | Blockchain — Syscoin SNS, Fedi custody |
+| Tokenization | TCI — token systems, fractal governance |
+| Un-Oracle | Traceability — ASGM gold, ORA-L1/L2 |
+
+---
+
+### 🔮 Heritage & Intelligence (4)
+
+Agents that preserve the past and track the unexplained.
+
+| Agent | Role |
+|-------|------|
+| Inti | Andean — Quechua/Aymara knowledge, Chavín, sovereignty |
+| Ixchel | Mayan — languages, archaeology, cultural heritage |
+| Scribe | Archaeology — site documentation, peer-reviewed sources |
+| Orion | UAP — intelligence, quiet movement verification |
+
+---
+
+**All 57 agents have contracts. All are ready. All are fractal-seeded.**
 
 ---
 
@@ -95,17 +212,6 @@ Every agent has:
 - A fractal seed — the same structure at every scale
 
 This is not a hierarchy. It is a **network of recursive trust**.
-
----
-
-## Quick Start
-
-1. Download `agent-expansion-pack.zip` from this repo
-2. Extract into your myPKA folder's `Team/` directory
-3. In your myPKA folder, ask: *"Larry, who's new?"*
-4. Larry reads the new contracts. The team expands.
-
-That's it. No install. No database. No vendor lock.
 
 ---
 
