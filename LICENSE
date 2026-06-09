@@ -1,16 +1,38 @@
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+# Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+## You are free to:
 
-Under the following terms:
-- Attribution — You must give appropriate credit
-- NonCommercial — You may not use the material for commercial purposes
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
 
-Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+## Under the following terms:
 
-For commercial licensing: contact@fractal-sovereignty.io
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You must give credit to:
+  - Thomas Rödl and Paco Cantero (Paperless Movement S.L.) for the myPKA scaffold
+  - Thomas Furst (Fractal Sovereign Labs) for the agent expansions
+
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+## No additional restrictions
+
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Notices
+
+This license applies to the agent contracts (AGENTS.md files) and associated documentation in this repository. The myPKA scaffold is separately licensed by the Paperless Movement S.L. and is required for use of this agent pack.
+
+## Full License Text
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+## Attribution
+
+This agent pack builds on the myPKA scaffold by Thomas Rödl and Paco Cantero, used under CC BY-NC-SA 4.0.
+
+*La misma pauta, cada escala, para siempre.*
+
+— Thomas Furst, Fractal Sovereign Labs / Pachamama Lab
