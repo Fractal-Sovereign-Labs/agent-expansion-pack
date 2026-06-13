@@ -30,11 +30,11 @@ That's the fractal secret. You don't need complexity. You need recursive consist
 
 ---
 
-## The Proof — 47 Agents in Three Weeks
+## The Proof — 48 Agents in Three Weeks
 
 On May 17, 2026, I downloaded a folder called myPKA. I didn't know what Claude MCP was. I just wanted my Obsidian notes to stop being a mess.
 
-Three weeks later, I built **47 fractal-seeded agents**. They speak 21 languages, analyze ancient acoustics, verify mining claims, document their own corrections, and never forget.
+Three weeks later, I built **48 fractal-seeded agents**. They speak 21 languages, analyze ancient acoustics, verify mining claims, document their own corrections, and never forget.
 
 The rule scaled. The agents emerged. The knowledge compounded.
 
@@ -64,11 +64,11 @@ Larry appears. The team is online. The agents are ready.
 
 ---
 
-## What's Inside — 47 Agents, One Domain Each
+## What's Inside — 48 Agents, One Domain Each
 
-### 🌍 Language & Culture (21)
+### 🌍 Language & Culture (22)
 
-Spanish (Cervantes), Portuguese (Pessoa), English Caribbean (CARICOM), French Caribbean (Toussaint), Dutch Caribbean (Bonaire), Quechua (Inti), Aymara (Inti), Mayan languages (Ixchel), Nahuatl, Mapudungun, Guaraní, Tupi, Wayuu, Miskito, Embera, Pemon, Rapa Nui, Garifuna, Haitian Creole, Mandarin, Cantonese
+Spanish (Cervantes), Portuguese (Pessoa), English (Global), English Caribbean (CARICOM), French Caribbean (Toussaint), Dutch Caribbean (Bonaire), Quechua (Inti), Aymara (Inti), Mayan languages (Ixchel), Nahuatl, Mapudungun, Guaraní, Tupi, Wayuu, Miskito, Embera, Pemon, Rapa Nui, Garifuna, Haitian Creole, Mandarin, Cantonese
 
 ### ⛰️ Earth & Energy (13)
 
@@ -86,7 +86,7 @@ Atlas (economics), Monet (commercial), Chain (blockchain), Tokenization (TCI), U
 
 Orion (UAP), Inti (Andean — in Language), Ixchel (Mayan — in Language), Scribe (archaeology — in Earth & Energy)
 
-**Total unique agents: 47**
+**Total unique agents: 48**
 
 ---
 
